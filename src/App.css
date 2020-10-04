@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.textField{
+  height: 32px;
+    width: 200px;
+    border: 1px solid #e5e5e5;
+    padding: 0 32px 0 16px;
+  }
+    .textField:hover {
+      cursor: pointer;
+    }
+  
+    .btnBuscar{
+      height: 34px;
+      width: 32px;
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+    }
+  
+    .barraBusqueda{
+  float: right;
+   padding: 20px;
+    }
+  
